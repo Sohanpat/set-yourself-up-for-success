@@ -1,0 +1,6 @@
+java RemoveDuplicates
+Original list: [1, 2, 3, 2, 1, 4]
+Without duplicates: [1, 2, 3, 4]
+
+Original list: [apple, banana, apple, cherry, banana]
+Without duplicates: [apple, banana, cherry]
